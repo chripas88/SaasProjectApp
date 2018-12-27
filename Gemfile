@@ -11,6 +11,7 @@ gem 'devise'
 gem 'milia'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'bootstrap-datepicker-rails'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
@@ -23,6 +24,8 @@ gem 'uglifier', '>= 1.3.0'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
+
+gem 'jquery-rails'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
